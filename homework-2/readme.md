@@ -4,3 +4,6 @@
 
 
 ### Live Links
+
+[Internal Scripts]()
+[External Scripts]()
